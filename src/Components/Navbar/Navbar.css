@@ -1,0 +1,48 @@
+#navhead{
+    width: 100%;
+    height: fit-content;
+    background-color: #2874F0;
+    position: fixed;
+    display: flex;
+    margin: 0px;
+    padding-top: 8px;
+    padding-bottom: 5px;
+    margin-bottom: 0px;
+   
+    justify-content: center;
+  
+}
+
+#plus{
+    color: #FFE500;
+}
+
+#searchbar{
+    min-height: 40px;
+}
+
+#imghead{
+    max-height: 20px;
+    padding: 0px;
+    margin: 0px;
+    margin-right: 20px; 
+    cursor: pointer;
+}
+#thirdnav{
+    margin-left: 45px;
+    margin-top: 6px;
+}
+#new{
+    margin-left: 60px;
+}
+#parahead{
+   font-size: 10px;
+   color: white;
+   padding: 0px;
+   margin: 0px;
+   margin-right: 15px;
+   /* margin-right: 200px; */
+}
+/* #searchbarstyle{
+    margin-right: 70px;
+} */
