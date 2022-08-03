@@ -1,97 +1,132 @@
-#contenthead{
-    background-color: white;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
-    margin-bottom: 0px;
-    padding-bottom: 0px;
+#contenthead {
+  background-color: white;
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
 }
 
+#mainhomehead {
+  background-color: #f1f3f6;
+  height: 1800px;
+}
+#secondhalf {
+  margin-top: 20px;
+}
+#fourthbox {
+  margin-top: 15px;
+  display: flex;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+#productsoffer {
+  display: flex;
+  height: 300px;
+  background-color: white;
+  width: 1050px;
+  border: 1px solid palevioletred;
+}
+#carousel button {
+  background-color: white;
+}
+#adimg {
+  width: 100%;
+  height: 100%;
+}
+.offerbox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 
-#mainhomehead{
-    background-color: #F1F3F6;
-    height: 1800px;
+  margin: 15px 15px;
+  font-size: 4em;
+  width: 300px;
+  height: 300px;
+  background-color: pink;
+  border: 1px solid black;
 }
-#secondhalf{
-    margin-top: 20px;
+#adproduct {
+  width: 250px;
+  background-color: white;
+  height: 300px;
+  border: 1px solid blueviolet;
 }
-#fourthbox{
-    margin-top: 15px;
-    display: flex;
+#topoffers {
+  height: 300px;
+  background-color: white;
+  width: 200px;
+  border: 1px solid red;
+}
+#imgstyling {
+  max-width: 1500px;
+  min-width: 1500px;
+  min-height: 300px;
+  max-height: 300px;
+}
+#fifthbox {
+  margin-top: 15px;
+  margin-left: 12px;
+  margin-right: 12px;
+  display: flex;
+  justify-content: center;
+}
+#lastbox{
+    margin-right: 18%;
+}
+.fifthbox1{
     margin-left: 10px;
     margin-right: 10px;
+    width: 400px;
+      background-color: white;
+    border: 1px solid red;
+    height: 400px;
+    padding: 10px;
 }
-#productsoffer{
-    height: 300px;
-    background-color: white;
-    width: 1050px;
-    border: 1px solid palevioletred;
+#thirdbox {
+  margin-top: 15px;
+  background-color: white;
+  margin-left: 12px;
+  margin-right: 12px;
+  display: flex;
+  justify-content: center;
 }
-#adproduct{
-    width: 250px;
-       background-color: white;
-    height: 300px;
-    border: 1px solid blueviolet;
+.banklogo {
+  min-width: 200px;
+  max-width: 200px;
 }
-#topoffers{
- height: 300px;
-    background-color: white;
- width: 200px;
- border: 1px solid red;
-}
-#imgstyling{
-    max-width: 1500px;
-    min-width: 1500px;
-    min-height: 300px;
-    max-height: 300px;
-
-
-}
-#thirdbox{
-    margin-top: 15px;
-    background-color: white;
-    margin-left: 12px;
-    margin-right: 12px;
-    display: flex;
-    justify-content:center;
-   
-}
-.banklogo{
-    min-width: 200px;
-    max-width: 200px;
-}
-#banklogo{
-    margin-top: 35px;
-    min-width: 300px;
-    min-height: 80px ;
-    max-height: 80px;
-    max-width: 300px;
+#banklogo {
+  margin-top: 35px;
+  min-width: 300px;
+  min-height: 80px;
+  max-height: 80px;
+  max-width: 300px;
 }
 
-.leftbtncount{
-    position: absolute;
-     margin-top: -190px;
-    left: 0px;
-      height: 100px;
+.leftbtncount {
+  position: absolute;
+  margin-top: -190px;
+  left: 0px;
+  height: 100px;
   width: 50px;
   background-color: white;
   border: none;
   border-bottom: 1px solid black;
-  border-right:1px solid black;
+  border-right: 1px solid black;
 }
-.headimg{
-    cursor: pointer;
-    margin-left: 35px;
-    margin-right: 35px;
-    max-height: 80px ;
-     margin-bottom: 0px;
-    padding-bottom: 0px;
+.headimg {
+  cursor: pointer;
+  margin-left: 35px;
+  margin-right: 35px;
+  max-height: 80px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
 }
 
-.btncount{
-    right: 0px;
+.btncount {
+  right: 0px;
   position: absolute;
- margin-top: -190px;
+  margin-top: -190px;
   height: 100px;
   width: 50px;
   background-color: white;
